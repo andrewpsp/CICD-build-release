@@ -11,7 +11,7 @@ Vagrant.configure(2) do |build_config|
 
 
 #name of the configured box for reference
-  build_config.vm.box = "base-build-box"
+  build_config.vm.box = "base-build-box-01"
 
 
 
