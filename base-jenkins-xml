@@ -4,10 +4,10 @@ var server = http.createServer(function(request, response) {
   response.write("<!DOCTYPE "html">");
   response.write("<html>");
   response.write("<head>");
-  response.write("<title>CI CD Base-build output</title>");
+  response.write("<title>CI CD CI Settings/Configuration</title>");
   response.write("</head>");
   response.write("<body>");
-  response.write("Base-build - Test results coming");
+  response.write("Display contents of xml file");
   response.write("</body>");
   response.write("</html>");
   response.end();
