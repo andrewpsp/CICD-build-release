@@ -4,7 +4,7 @@ var server = http.createServer(function(request, response) {
   response.write("<!DOCTYPE "html">");
   response.write("<html>");
   response.write("<head>");
-  response.write("<title>CI CD Base-build page</title>");
+  response.write("<title>CI CD Base-build output</title>");
   response.write("</head>");
   response.write("<body>");
   response.write("Base-build - Test results coming");
