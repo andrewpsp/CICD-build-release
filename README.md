@@ -3,7 +3,7 @@ master chef base-repo bizapi build and deploy
 
 java-base-build::default
 upstrem project -java basebuild01
-
+CLASSPATH=/base-data
 
 neo-store jenkins stream - 
 
