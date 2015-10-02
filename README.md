@@ -1,9 +1,20 @@
+Changed to be Made 
+motd README - 
+
+
+CICD B & R
+
+
 # chef-base-repo
 master chef base-repo bizapi build and deploy
 
 java-base-build::default
 upstrem project -java basebuild01
+<<<<<<< HEAD
 CLASSPATH=/base-data
+=======
+ - Looks for the test cases in the CLASSPATH=~/base-data
+>>>>>>> 0c94b2ad1b436841201288093638ecf4d363e50f
 
 neo-store jenkins stream - 
 
