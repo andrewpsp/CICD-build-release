@@ -2,8 +2,8 @@
   "name": "jaws-framework",
   "version": "1.3.3",
   "preferGlobal": true,
-  "description": "JAWS is the serverless framework powered by Amazon Web Services.",
-  "author": "Austen Collins <austen@servant.co>, Ryan Pendergast <ryan.pendergast@gmail.com>",
+  "description": "JAWS is the serverless framework powered by Build and Release pipeline.",
+  "author": "Andrew S Thompson <admin@entercloud.info>"
   "license": "MIT",
   "repository": {
     "type": "git",
